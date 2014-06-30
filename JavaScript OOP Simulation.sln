@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions and Function Expressions", "Functions and Function Expressions\Functions and Function Expressions.csproj", "{54C4AA62-6A3C-4A3B-B4D9-BC63472B6E50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classical OOP With JavaScript", "Classical OOP With JavaScript\Classical OOP With JavaScript.csproj", "{0A2BCFBB-5A94-42EA-B025-15B6C1E1AB90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{54C4AA62-6A3C-4A3B-B4D9-BC63472B6E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54C4AA62-6A3C-4A3B-B4D9-BC63472B6E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54C4AA62-6A3C-4A3B-B4D9-BC63472B6E50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A2BCFBB-5A94-42EA-B025-15B6C1E1AB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A2BCFBB-5A94-42EA-B025-15B6C1E1AB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A2BCFBB-5A94-42EA-B025-15B6C1E1AB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A2BCFBB-5A94-42EA-B025-15B6C1E1AB90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
